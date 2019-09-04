@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4a2eb9a-f428-4a11-8897-403b25df2a9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/application/ProgramRetangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Retangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/ProgramFuncionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Funcionario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CursoJavaUdemy/application/ProgramTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CursoJavaUdemy/application/ProgramTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/ProgramTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/ProgramTriangle.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,22 +50,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProgramRetangle">
+  <component name="RunManager" selected="Application.ProgramFuncionario">
     <configuration name="Aula27_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secao2.Aula27_2" />
-      <module name="CursoJavaUdemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="secao2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula27_FuncoesString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao2.Aula27_FuncoesString" />
       <module name="CursoJavaUdemy" />
       <extension name="coverage">
         <pattern>
@@ -85,6 +70,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="secao2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramFuncionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.ProgramFuncionario" />
+      <module name="CursoJavaUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProgramFuncionario" />
         <item itemvalue="Application.ProgramRetangle" />
         <item itemvalue="Application.ProgramTriangle" />
         <item itemvalue="Application.Aula34_While" />
         <item itemvalue="Application.Aula27_2" />
-        <item itemvalue="Application.Aula27_FuncoesString" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +136,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562722030267</updated>
-      <workItem from="1567605584636" duration="10132000" />
+      <workItem from="1567605584636" duration="12021000" />
     </task>
     <servers />
   </component>
