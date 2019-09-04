@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4a2eb9a-f428-4a11-8897-403b25df2a9e" name="Default Changelist" comment="" />
+    <list default="true" id="a4a2eb9a-f428-4a11-8897-403b25df2a9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/application/ProgramRetangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Retangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CursoJavaUdemy/application/ProgramTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CursoJavaUdemy/application/ProgramTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/ProgramTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/ProgramTriangle.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1OtFK6AJydKONyIfKOntT53790r" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -44,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProgramTriangle">
+  <component name="RunManager" selected="Application.ProgramRetangle">
     <configuration name="Aula27_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secao2.Aula27_2" />
       <module name="CursoJavaUdemy" />
@@ -84,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex03_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao2.Ex03_6" />
+    <configuration name="ProgramRetangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.ProgramRetangle" />
       <module name="CursoJavaUdemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao2.*" />
+          <option name="PATTERN" value="application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProgramRetangle" />
         <item itemvalue="Application.ProgramTriangle" />
         <item itemvalue="Application.Aula34_While" />
         <item itemvalue="Application.Aula27_2" />
         <item itemvalue="Application.Aula27_FuncoesString" />
-        <item itemvalue="Application.Ex03_6" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +138,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562722030267</updated>
-      <workItem from="1567605584636" duration="6272000" />
+      <workItem from="1567605584636" duration="10132000" />
     </task>
     <servers />
   </component>
