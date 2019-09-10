@@ -21,8 +21,6 @@ public class ProgramFuncionario {
         func.tax = sc.nextDouble();
 
         System.out.printf("Funcionario: " + func.name + ", $ " + func.salFim());
-
-
     }
 }
 

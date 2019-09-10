@@ -10,4 +10,5 @@ public class Funcionario {
         double sf = grossSalary - tax;
         return sf;
     }
+
 }

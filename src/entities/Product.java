@@ -7,12 +7,13 @@ public class Product {
 
     //Total no estoque
     public double totalValueInStock(){
+
         return price * quantity;
     }
 
     //Adicionando Produtos no estoque
     public void addProducts(int quantity){
-        this.quantity += this.quantity;
+        this.quantity += quantity;
     }
 
     //Removendo Produtos no estoque
